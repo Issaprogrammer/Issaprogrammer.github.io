@@ -1,43 +1,36 @@
 p {
   font-family: Arial;
 }
-
-h1 {
-  color: maroon;
-}
-
-h2.destination {
+h1 {style
+color:blue }
+h2.Hobbies {
   font-family: cursive;
 }
-
-h5 {
+<body style="background-image:url('clouds.jpg')">
+</body>
+h3 {
   color: rebeccapurple !important;
 }
-
-h5,
+h3,
 p {
   font-family: Georgia;
+  color: Green 
 }
-
-.title {
+h2 {
   color: teal;
 }
-
 .uppercase {
   text-transform: uppercase;
 }
 .publish-time {
   color: gray;
 }
-
 .cursive {
   font-family: cursive;
 }
-
 .capitalize {
   text-transform: capitalize;
 }
-
-.description h5 {
+.description h2 {
   color: teal;
 }
